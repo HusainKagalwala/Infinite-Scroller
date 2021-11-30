@@ -1,0 +1,12 @@
+html{
+    /* Use to avoid the viewpoint width to extend more than 100vw */
+    box-sizing: border-box; 
+}
+
+body
+{
+    margin: 0;
+    /* Full height of the entire window, even if the content is not that much */
+    min-height: 100vh;
+    
+}
